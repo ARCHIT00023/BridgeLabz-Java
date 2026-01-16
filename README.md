@@ -144,3 +144,45 @@ Coverage included:
 - Improving code structure and reusability
   
 Also organized and uploaded all the work into GitHub using a **new branch-based repository structure** for better version control and project organization.
+
+---
+
+# 9 January 2026
+
+Practiced Java fundamentals including this, static, final keywords and instanceof operator.
+
+Solved Level 1 lab practice problems and pushed solutions to GitHub.
+
+Organized code following proper package and folder naming conventions.
+
+---
+
+# 10 January 2026
+
+Studied Object-Oriented Design principles and class modeling concepts.
+
+Practiced basic class diagrams and object modeling examples.
+
+Committed and pushed structured practice code to the repository.
+
+---
+
+# 12 January 2026
+
+Practiced Java Inheritance concepts including extends, method overriding, and super.
+
+Implemented inheritance-based programs as per assigned tasks.
+
+Updated GitHub repository with clean commits and proper folder structure.
+
+---
+
+# 13 January 2026
+
+Practiced Encapsulation, Polymorphism, Interfaces, and Abstract Classes.
+
+Solved related practice problems and organized them under feature branches.
+
+Ensured repository alignment with Java naming conventions.
+
+
